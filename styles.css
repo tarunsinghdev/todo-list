@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(137, 253, 253);
+  text-align: center;
+}
+h1 {
+  opacity: 0.6;
+}
+
+li button {
+  margin-left: 150px;
+}
+li button:hover {
+  color: red;
+}
+.done {
+  text-decoration: line-through;
+}
